@@ -19,3 +19,11 @@ Cada ficha prática, e cada Sprint têm o respetivo enunciado na pasta 'Statemen
 [Report: Sprint 3](./Sprint_3/README.md)
 
 ---------------
+
+This was the group I completed this unit with:
+| Name               |
+| ------------------ |
+| Tiago Ribeiro      |
+| Rafael Moreira     |
+| Luís Carmo         |
+| Bernardo Carvalho  |
